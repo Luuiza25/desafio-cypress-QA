@@ -1,0 +1,1 @@
+describe('Cadastro', () => { it('cadastro válido', () => {}) });
