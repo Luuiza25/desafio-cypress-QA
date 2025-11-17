@@ -1,0 +1,10 @@
+{
+  "name": "Thaina Teste",
+  "cpf": "12345678909",
+  "cep": "01000000",
+  "address": "Rua Exemplo, 100",
+  "city": "São Paulo",
+  "state": "SP",
+  "phone": "11999999999",
+  "email": "thaina.teste+ci01@example.com"
+}
